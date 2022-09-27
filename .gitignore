@@ -1,6 +1,6 @@
-# The output of "mkdocs build"
-/site/
-docs/reference/modules.md
+# The output of "mdbook build"
+/book/
+/docs/reference/modules.md
 
 # Nix build results
 result*
